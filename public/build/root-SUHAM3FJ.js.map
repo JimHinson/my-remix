@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:/home/jhinson/src/my-remix/app/root.jsx?browser", "../../app/root.jsx"],
+  "sourcesContent": ["export { default } from \"/home/jhinson/src/my-remix/app/root.jsx\";", "import * as React from 'react'\r\n\r\nfunction App() {\r\n    const [count, setCount] = React.useState(0)\r\n    return (\r\n        <html>\r\n            <head>\r\n                <title>myRemix</title>\r\n            </head>\r\n            <body>\r\n                <p>myRemix@sodeog.ai</p>\r\n                <button onClick={() => setCount(c => c + 1)}>{count}</button>\r\n            </body>\r\n        </html>\r\n    )\r\n}\r\n\r\nexport default App"],
+  "mappings": ";;;;;;;AAAA;;;ACAA;AAAA,YAAuB;AAEvB,eAAe;AACX,QAAM,CAAC,OAAO,YAAY,AAAM,eAAS;AACzC,SACI,oCAAC,QAAD,MACI,oCAAC,QAAD,MACI,oCAAC,SAAD,MAAO,aAEX,oCAAC,QAAD,MACI,oCAAC,KAAD,MAAG,sBACH,oCAAC,UAAD;AAAA,IAAQ,SAAS,MAAM,SAAS,OAAK,IAAI;AAAA,KAAK;AAAA;AAM9D,IAAO,eAAQ;",
+  "names": []
+}

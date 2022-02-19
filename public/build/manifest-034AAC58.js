@@ -1,0 +1,1 @@
+window.__remixManifest={"version":"034aac58","entry":{"module":"/build/entry.client-ZEQ3TTBR.js","imports":["/build/_shared/chunk-JZELQACC.js"]},"routes":{"root":{"id":"root","path":"","module":"/build/root-ZYZ5EIMT.js","hasAction":false,"hasLoader":false,"hasCatchBoundary":false,"hasErrorBoundary":false}},"url":"/build/manifest-034AAC58.js"};
