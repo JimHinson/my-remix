@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"my-remix","dependencies":{"@remix-run/react":{"version":"1.2.3"},"@remix-run/serve":{"version":"1.2.3"},"cross-env":{"version":"7.0.3"},"cypress":{"version":"9.5.1"},"react-dom":{"version":"17.0.2"},"react":{"version":"17.0.2"},"remix":{"version":"1.2.1"},"request":{"version":"2.88.2"}}}
