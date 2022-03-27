@@ -7,6 +7,7 @@ function handleRequest(
   responseHeaders,
   remixContext,
 ) {
+  //coolness - we create the response object
   const markup = ReactDOMServer.renderToString(
     <RemixServer context={remixContext} url={request.url} />,
   )
