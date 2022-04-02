@@ -6,7 +6,7 @@ export type Post = {
 };
 
 export const loader = async () => {
-  const posts: Post[] = [
+  const Posts: Post[] = [
     {
       slug: "my-first-post",
       title: "My First Post",
@@ -16,7 +16,7 @@ export const loader = async () => {
       title: "A Mixtape I Made Just For You",
     },
   ];
-  return posts;
+  return Posts;
 };
 
 export default function Posts() {
