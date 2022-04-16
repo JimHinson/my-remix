@@ -54,6 +54,9 @@ function Layout({ children }: React.PropsWithChildren<{}>) {
           <li>
             <Link to="/pain">Pain</Link>
           </li>
+          <li>
+            <Link to="/to_do">To Do</Link>
+          </li>
         </ul>
       </header>
 
